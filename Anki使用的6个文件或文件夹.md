@@ -9,7 +9,7 @@ Anki的每个collection会使用到6个文件或文件夹
 - media.trash
 - backups
 
-![](./asset/../assets/8.png)
+![](./assets/8.png)
 
 **collection.anki2**
 
