@@ -1,15 +1,3 @@
----
-title: "Anki卡片的本质"
-description: " "
-date: 2022-06-05
-draft: false
-tags:
-  - anki
-  - anki原理
-categories:
-  - anki
----
-
 ![图片](assets/10.png)
 
 
@@ -27,7 +15,7 @@ categories:
 
 
 
-根据[Anki学习中卡片间隔的处理方式](Anki学习中卡片间隔的处理方式.md)，学习也是回忆的过程，所以学习和复习卡片可以统称回忆卡片。
+根据[Anki学习中卡片间隔的处理方式​](Anki学习中卡片间隔的处理方式​.md)，学习也是回忆的过程，所以学习和复习卡片可以统称回忆卡片。
 
 
 
