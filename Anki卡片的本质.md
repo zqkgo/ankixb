@@ -27,7 +27,7 @@ categories:
 
 
 
-根据[Anki学习中卡片间隔的处理方式](http://mp.weixin.qq.com/s?__biz=MjM5OTQ2NDU2Mw==&mid=2247484404&idx=1&sn=65458293705ca6cc85d041779878e6e6&chksm=a73a58e8904dd1fe7a1ba915668e5c96a161fd26dc0f7eff48fe6206245a9d748de3dbfd495a&scene=21#wechat_redirect)，学习也是回忆的过程，所以学习和复习卡片可以统称回忆卡片。
+根据[Anki学习中卡片间隔的处理方式](Anki学习中卡片间隔的处理方式.md)，学习也是回忆的过程，所以学习和复习卡片可以统称回忆卡片。
 
 
 
